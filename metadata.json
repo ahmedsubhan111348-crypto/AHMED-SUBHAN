@@ -1,0 +1,6 @@
+{
+  "name": "Khusboo Beauty Salon | Luxury Salon in Satellite Town, Gujranwala",
+  "description": "Premium luxury salon in Satellite Town, Gujranwala. Luxury hairstyling, coloring, keratin, makeup, manicure, pedicure, braids, and waxing. Direct WhatsApp and appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
